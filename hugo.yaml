@@ -47,7 +47,7 @@ menu:
       weight: 9
     - name: GitHub
       weight: 10
-      url: "https://github.com/vibe4gov/guidance"
+      url: "https://github.com/dlapiduz/vibe4gov"
       params:
         icon: github
 
@@ -62,4 +62,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/vibe4gov/framework/edit/main/content"
+    base: "https://github.com/dlapiduz/vibe4gov/edit/main/content"
